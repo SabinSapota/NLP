@@ -1,1 +1,1 @@
-These are my projects on NLP.
+These are my projects on NLP that I have done in Jupyter notebook.All data sources are taken from Kaggle. First,text cleaning is done and then EDA was performed, secondly,Feature selection was done, Third, model was build using different algorithm, Finally,hyper parameter tunning was done.
